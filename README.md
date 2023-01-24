@@ -4,3 +4,4 @@ Colab notebooks developed during internship at SIL
 
 TODO
 1. Share sample results (i.e. arcanegan,dctnet,film, warp diffussion)
+2. SMPLix
